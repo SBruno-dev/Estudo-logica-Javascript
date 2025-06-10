@@ -1,2 +1,2 @@
-# Estudo-l-gica-Javascript
+# Estudo-lógica-Javascript
 Repositório de estudos com Javascript
